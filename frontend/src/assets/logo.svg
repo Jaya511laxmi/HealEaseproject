@@ -1,0 +1,32 @@
+<svg 
+    version="1.1" xmlns="http://www.w3.org/2000/svg" 
+    viewBox="0 0 960 450" 
+    width="300" height="100">
+
+  <!-- Main Icon Design -->
+  <g id="SVGRepo_iconCarrier">
+    <g>
+      <polygon style="fill:#5f6fff;" points="120,300 230,300 230,260 193,260 193,187 120,187 120,113 193,113 193,40 230,40 230,0 80,0 80,420 120,420"/>
+      <rect x="200.879" y="380" style="fill:#5f6fff;" width="29.121" height="40"/>
+      <polygon style="fill:#5f6fff;" points="230,0 230,40 267,40 267,113 340,113 340,187 267,187 267,260 230,260 230,300 380,300 380,0"/>
+      <rect x="230" y="380" style="fill:#5f6fff;" width="150" height="40"/>
+      <rect x="200.879" y="340" style="fill:#8f99f1;" width="179.121" height="40"/>
+      <path style="fill:#FFFFFF;" d="M120,300v40c2.699-0.172,40.44,0,40.44,0H380v-40H120z"/>
+      <polygon style="fill:#EF1F4B;" points="200.879,340 160.44,340 160.44,438.304 200.879,460"/>
+      <path style="fill:#EA6453;" d="M160.44,340c0,0-37.74-0.172-40.44,0v120l40.44-21.696V340z"/>
+      <polygon style="fill:#8f99f1;" points="267,260 267,187 340,187 340,113 267,113 267,40 230,40 230,260"/>
+      <polygon style="fill:#FFFFFF;" points="193,113 120,113 120,187 193,187 193,260 230,260 230,40 193,40"/>
+    </g>
+  </g>
+
+  <!-- HealEase Text - Increased Gap -->
+  <text 
+    x="420" y="220" 
+    font-size="130" 
+    text-anchor="start" 
+    fill="#5f6fff" 
+    font-family="Poppins, sans-serif" 
+    font-weight="900">
+    HealEase
+  </text>
+</svg>
